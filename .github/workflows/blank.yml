@@ -1,0 +1,21 @@
+> ruby -v 
+ruby 2.1.2p95 (2014-05-08 revision 45877)
+> mkdir mystuff
+> cd mystuff
+
+... Here you would use Atom to make test.txt in mystuff ...
+
+>
+> dir
+ Volume in drive C is
+ Volume Serial Number is 085C-7E02
+
+ Directory of C:\Documents and Settings\you\mystuff
+
+04.05.2010  23:32    <DIR>          .
+04.05.2010  23:32    <DIR>          ..
+04.05.2010  23:32                 6 test.txt
+               1 File(s)              6 bytes
+               2 Dir(s)  14 804 623 360 bytes free
+
+>
